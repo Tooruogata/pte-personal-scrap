@@ -1,0 +1,8 @@
+requests
+pandas
+numpy
+lxml
+pyarrow
+duckdb
+seaborn
+matplotlib
