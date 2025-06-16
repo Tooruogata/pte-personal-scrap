@@ -41,7 +41,7 @@ A data pipeline project for scraping, transforming, and analyzing personnel data
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/your-username/pte-personal-scrap.git
+    git clone https://github.com/Tooruogata/pte-personal-scrap.git
     cd pte-personal-scrap
     ```
 
